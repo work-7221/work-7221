@@ -79,24 +79,24 @@ I build real-world software from scratch across backend engineering, AI systems,
 ![AI](https://img.shields.io/badge/AI-RAG%20%7C%20Local%20LLMs-ff6b6b?style=flat-square&logo=huggingface&logoColor=white)
 ![Agentic](https://img.shields.io/badge/Agentic%20AI-Enterprise%20RAG-blueviolet?style=flat-square&logo=openai&logoColor=white)
 ![Backend](https://img.shields.io/badge/Backend-FastAPI%20%7C%20Spring%20Boot-2ea043?style=flat-square&logo=fastapi&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-C%2B%2B%20%7C%20Striver%20A2Z-orange?style=flat-square&logo=cplusplus&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-C%2B%2B%20%7CProblem_Solving-orange?style=flat-square&logo=cplusplus&logoColor=white)
 ![Web](https://img.shields.io/badge/Web%20Dev-Full%20Stack-brightgreen?style=flat-square&logo=react&logoColor=white)
 
 <hr style="height:2px; background-color:lightgray; border:none;">
 
 ### Featured Projects
 
-**College Finance Dashboard**
-`Python` `Streamlit` `MySQL`
-An interactive platform for managing and visualizing financial data — data entry, persistent storage, and live visualization in one application.
+**RAG-Based PDF Chatbot**
+`Python` `Sentence Transformers` `ChromaDB` `Ollama` `Intel IPEX-LLM` `Streamlit`
+A fully local Retrieval-Augmented Generation system that answers questions from uploaded documents — no external AI APIs. Implements document ingestion, semantic chunking, vector search, prompt engineering, conversational retrieval, and a persistent vector database, running entirely on local hardware with Intel-accelerated inference.
 
 **Code Similarity Checker**
 `Java` `Spring Boot`
 A custom similarity-detection algorithm built from scratch to compare source code files, without relying on third-party plagiarism-detection libraries.
 
-**RAG-Based PDF Chatbot**
-`Python` `Sentence Transformers` `ChromaDB` `Ollama` `Intel IPEX-LLM` `Streamlit`
-A fully local Retrieval-Augmented Generation system that answers questions from uploaded documents — no external AI APIs. Implements document ingestion, semantic chunking, vector search, prompt engineering, conversational retrieval, and a persistent vector database, running entirely on local hardware with Intel-accelerated inference.
+**College Finance Dashboard**
+`Python` `Streamlit` `MySQL`
+An interactive platform for managing and visualizing financial spending in college — data entry, persistent storage, and live visualization in one application.
 
 **Enterprise RAG Assistant** — *in progress*
 `Full-Stack` `Auth` `RAG` `Semantic Retrieval`
@@ -143,7 +143,7 @@ Fully local, end to end — no external AI API calls in the core pipeline.
 | Backend | Custom similarity-detection service in Java + Spring Boot, no third-party libraries |
 | Backend Exploration | REST APIs, database integration, and scalable app design with FastAPI & Spring Boot |
 | In Progress | Enterprise-style RAG assistant with auth, semantic retrieval, and knowledge management |
-| DSA | Striver's A2Z sheet in C++ — 60+ problems solved |
+| DSA | C++ — 60+ problems solved |
 
 <hr style="height:2px; background-color:lightgray; border:none;">
 
